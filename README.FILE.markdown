@@ -130,16 +130,6 @@ If you encounter a "Connection refused" error when trying to connect via SFTP, e
 
 **Screenshot:** [Insert screenshot showing encrypted SFTP packets]
 
-## Step 3: LinkedIn Presentation
-
-To share this project on LinkedIn, create a post with the following content:
-
-- **Title:** Network Security Case Study: FTP vs SFTP in Wireshark
-- **Body:**
-  - Include the FTP capture screenshot showing credentials in plain text.
-  - Include the SFTP capture screenshot showing encrypted packets.
-  - Caption: "Captured FTP and SFTP logins in Wireshark. FTP sends credentials in cleartext — visible to anyone sniffing traffic. SFTP encrypts all communication — making it unreadable to attackers."
-
 ## Additional Notes
 
 - **Permissions for Wireshark**: Wireshark requires root privileges to capture packets. Running `sudo wireshark &` ensures the necessary permissions. Alternatively, add your user to the `wireshark` group to capture packets without root privileges, as described in the [Wireshark Wiki](https://wiki.wireshark.org/CaptureSetup/CapturePrivileges).
