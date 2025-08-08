@@ -55,7 +55,8 @@ FTP transmits credentials and data in plain text, making it insecure. This secti
      ftp.request.command == "USER" || ftp.request.command == "PASS"
      ```
    - Observe that the username and password are visible in plain text.
-  ![Image Alt]()
+![Image Alt](https://github.com/AshutoshT07-cyber/network-security-ftp-sftp/blob/main/wireshark-ftp-session.png.png?raw=true)
+![Image Alt]()
 
 ## Step 2: SFTP Login (Secure)
 
