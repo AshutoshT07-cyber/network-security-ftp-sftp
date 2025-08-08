@@ -130,6 +130,7 @@ If you encounter a "Connection refused" error when trying to connect via SFTP, e
    - ![Image Alt](image_url)
    - ![Image Alt](image_url)
    - ![Image Alt](image_url)
+   - ![Image Alt](image_url)
 
 ## Additional Notes
 
