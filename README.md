@@ -127,10 +127,10 @@ If you encounter a "Connection refused" error when trying to connect via SFTP, e
      ssh
      ```
    - Observe that all packets are encrypted, and no credentials are visible.
-   - ![Image Alt](image_url)
-   - ![Image Alt](image_url)
-   - ![Image Alt](image_url)
-   - ![Image Alt](image_url)
+   - ![Image Alt](https://github.com/AshutoshT07-cyber/network-security-ftp-sftp/blob/main/wireshark-telnet-session.png.png?raw=true)
+   - ![Image Alt](https://github.com/AshutoshT07-cyber/network-security-ftp-sftp/blob/main/wireshark-telnet-credentials-filter.png.png?raw=true)
+   - ![Image Alt](https://github.com/AshutoshT07-cyber/network-security-ftp-sftp/blob/main/wireshark-http-login-capture.png.png?raw=true)
+   - ![Image Alt](https://github.com/AshutoshT07-cyber/network-security-ftp-sftp/blob/main/wireshark-http-post-data.png.png?raw=true)
 
 ## Additional Notes
 
