@@ -56,7 +56,7 @@ FTP transmits credentials and data in plain text, making it insecure. This secti
      ```
    - Observe that the username and password are visible in plain text.
 ![Image Alt](https://github.com/AshutoshT07-cyber/network-security-ftp-sftp/blob/main/wireshark-ftp-session.png.png?raw=true)
-![Image Alt]()
+![Image Alt](https://github.com/AshutoshT07-cyber/network-security-ftp-sftp/blob/main/wireshark-ftp-user-pass-filter.png.png?raw=true)
 
 ## Step 2: SFTP Login (Secure)
 
@@ -127,6 +127,9 @@ If you encounter a "Connection refused" error when trying to connect via SFTP, e
      ssh
      ```
    - Observe that all packets are encrypted, and no credentials are visible.
+   - ![Image Alt](image_url)
+   - ![Image Alt](image_url)
+   - ![Image Alt](image_url)
 
 ## Additional Notes
 
